@@ -1,2 +1,3 @@
-# CODINGFORUM
-stackoverflowclonealike
+# CODING FORUM
+Stackoverflow
+CloneAlike
